@@ -1,0 +1,13 @@
+{
+  "name": "hostedscan",
+  "owner": {
+    "name": "HostedScan",
+    "email": "hello@hostedscan.com"
+  },
+  "plugins": [
+    {
+      "name": "hostedscan",
+      "source": "plugins/hostedscan"
+    }
+  ]
+}

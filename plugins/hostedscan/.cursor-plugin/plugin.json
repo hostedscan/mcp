@@ -1,0 +1,21 @@
+{
+  "name": "hostedscan",
+  "description": "Scan websites, servers, and networks for vulnerabilities with HostedScan, and review the open risks and how to fix them.",
+  "version": "0.1.0",
+  "author": {
+    "name": "HostedScan",
+    "email": "hello@hostedscan.com"
+  },
+  "license": "MIT",
+  "homepage": "https://hostedscan.com",
+  "repository": "https://github.com/hostedscan/mcp",
+  "keywords": [
+    "security",
+    "vulnerability-scanning",
+    "mcp",
+    "hostedscan",
+    "owasp-zap",
+    "openvas",
+    "nmap"
+  ]
+}

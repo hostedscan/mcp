@@ -1,0 +1,17 @@
+{
+  "name": "hostedscan",
+  "owner": {
+    "name": "HostedScan",
+    "email": "hello@hostedscan.com"
+  },
+  "metadata": {
+    "description": "The HostedScan plugin for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "hostedscan",
+      "source": "./plugins/hostedscan",
+      "description": "Scan websites, servers, and networks for vulnerabilities with HostedScan, and review the open risks and how to fix them."
+    }
+  ]
+}

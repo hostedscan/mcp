@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "hostedscan": {
+      "url": "https://api.hostedscan.com/mcp"
+    }
+  }
+}
